@@ -1,4 +1,4 @@
-#include <std.h>
+#include "std.h"
 
 int main()
 {
@@ -9,4 +9,6 @@ int main()
 	scanf("%d",&a);
 	printf("\nvvedite b:");
 	scanf("%d",&b);
+	sum= a+b;
+	printf("\nSUM(a+b) = %d",sum);
 }
