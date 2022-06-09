@@ -4,7 +4,7 @@ int main()
 {
 	int a;
 	int b;
-
+	int sum;
 	printf("\nvvedite a:");
 	scanf("%d",&a);
 	printf("\nvvedite b:");
