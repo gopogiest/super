@@ -15,4 +15,5 @@ int main()
 	diff=a-b;
 	printf("\nSUM(a+b) = %d",sum);
 	printf("\nDifference(a-b)=%d",diff);
+	printf("\nProizv= %d",a*b);
 }
